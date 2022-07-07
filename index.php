@@ -64,7 +64,7 @@
           </label>
         </div>
         <button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
-        <p class="mt-5 mb-3 text-muted">&copy; 18083000148_Luqman Tri Bimantoro_7F <?= date('Y') ?></p>
+        <p class="mt-5 mb-3 text-muted">&copy; 18083000148_Luqman Tri Bimantoro <?= date('Y') ?></p>
       </form>
     </main>
   </body>
